@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("myDocTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+195e98c2d200d8a173d561fdf82c2e3a3cd72c0d")]
 [assembly: System.Reflection.AssemblyProductAttribute("myDocTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("myDocTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

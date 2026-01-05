@@ -94,3 +94,4 @@
 /home/mamun/Project/dockerTest/myDocTest/obj/Debug/net9.0/myDocTest.pdb
 /home/mamun/Project/dockerTest/myDocTest/obj/Debug/net9.0/myDocTest.genruntimeconfig.cache
 /home/mamun/Project/dockerTest/myDocTest/obj/Debug/net9.0/ref/myDocTest.dll
+/home/mamun/Project/dockerTest/myDocTest/obj/Debug/net9.0/myDocTest.sourcelink.json
