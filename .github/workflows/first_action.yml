@@ -1,0 +1,17 @@
+name: My First Action
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  demo_job:
+    runs-on: ubuntu-latest
+
+    steps:
+    - run: echo "Hello, this is my first GitHub Action!"
+    - name: checkout
+      uses: actions/checkout@v4
+    - name: List file 
+      run: ls ${{ github.workspace }}
